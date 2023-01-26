@@ -8,8 +8,10 @@ Flapper
 Flaplet
 Nightjar
 Flycatcher
+Rosefinch
 Sparrowhawk
 Eagle
+Roseflapper
 Eagle-flaplet
 Gull-flaplet
 Laughingthrush
