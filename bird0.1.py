@@ -7,8 +7,11 @@ print(random.choice(birdName1), end=' ')
 birdName2 = ['Gull', 'Flaplet', 'Nightjar', 'Sparrow', 'Finch']
 print(random.choice(birdName2))
 
-wingDesc = ['Olive green', 'Sparkly pink and gold', 'Stunningly silver', 'Nearly transparent blue', 'A great many little'] 
-print(random.choice(wingDesc), end='')
+wingDesc1 = ['peculiar', 'practical', 'twitchy', 'smelly', 'Very long']  
+print(random.choice(wingDesc1), end=' ')
+
+wingDesc2 = ['Olive green', 'pink and gold', 'silver', 'blue', 'rainbow'] 
+print(random.choice(wingDesc2), end='')
 
 print (' wings and', end=' ')
 
