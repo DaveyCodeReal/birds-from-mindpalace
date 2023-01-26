@@ -1,3 +1,13 @@
+# birds from the mind palace 2023
+# 
+# posts in format:
+#
+# birdName1 birdName2 
+# wingDesc1 wingDesc2 wings and addDesc
+# habPreface birdHabitat  
+# callPreface birdCall
+
+
 
 import random
 
