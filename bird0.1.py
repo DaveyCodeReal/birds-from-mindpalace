@@ -4,6 +4,7 @@
 #
 # birdName1 birdName2 
 # wingDesc1 wingDesc2 wings and addDesc
+# randomTrait
 # habPreface birdHabitat  
 # callPreface birdCall
 
@@ -28,6 +29,9 @@ wingDesc2 = ['Olive green', 'pink and gold', 'silver', 'blue', 'rainbow']
 print(random.choice(wingDesc2), end='')
 
 print (' wings and', end=' ')
+
+randomTrait = ['X'] 
+print(random.choice(randomTrait), end='')
 
 addDesc = ['bold red spots on breast.', 'sad little face.', 'long gangly legs.', 'long thick beak.', 'fluffy little muttonchops.', 'tiny pathetic beak.', 'long brown tail.'] 
 print(random.choice(addDesc))
