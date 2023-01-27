@@ -8,6 +8,7 @@ Gull
 Flapper
 Flaplet
 Sparrow-Flaplet
+Bushshrike
 Flaplet-Rail
 Eagle-Flaplet
 Oriole-Flaplet
@@ -21,7 +22,9 @@ Myna
 Rosefinch
 Cinclodes
 Sparrowhawk
+Sparrow-Flapper
 Thorntail
+Swallow
 Chiller
 Chilla
 Big-Chiller
@@ -30,6 +33,16 @@ Rail-Quail
 Quail-Rail
 Rail
 Antbird
+Lory
+Lory-finch
+Lory-Duck
+Lory-Antpitta
+Lorybird
+Lory-Myna
+Lory-Gull
+Lory-Flapper
+Lory-Flaplet
+Lory-Sparrow
 Bird
 Eagle
 Duck
@@ -54,6 +67,7 @@ Myna-Rail
 Manakin
 Myna-Quail
 Thrush
+Crake
 Dove-Quail
 Dove
 Dovekin
