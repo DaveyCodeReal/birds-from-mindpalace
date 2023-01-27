@@ -7,6 +7,12 @@ gold
 aqua
 orange
 blue
+red-orange
+yellow-orange
+yellow-green
+blue-green
+blue-violet
+red-violet
 rainbow
 2016 tumblr galaxy print
 Cobalt blue
@@ -50,3 +56,4 @@ dull copper
 bright red
 green
 bright orange  
+soft pink
