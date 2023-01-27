@@ -11,6 +11,10 @@
 
 import random
 
+# ? lol
+# import birdCall.txt as birdCall
+# filename = 'birdCall.txt'data = np.loadtxt(filename, delimiter=',', skiprows=1, dtype=str)print(data)
+
 birdName1  = ['Great', 'Hover', 'Shrieking', 'Common', 'Rare']
 print(random.choice(birdName1), end=' ')
 
