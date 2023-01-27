@@ -3,12 +3,14 @@ Warbler
 Tailorbird
 Sparrow
 Finch
+Oriole
 Gull
 Flapper
 Flaplet
 Sparrow-Flaplet
 Flaplet-Rail
 Eagle-Flaplet
+Oriole-Flaplet
 Myna-Flaplet
 Gull-Flaplet
 Gull-Thrush
