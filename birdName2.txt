@@ -3,10 +3,12 @@ Warbler
 Tailorbird
 Sparrow
 Finch
+Plover
 Oriole
 Gull
 Ground Dove
 Flapper
+Parakeet
 Goshawk
 Flaplet
 Sparrow-Flaplet
@@ -122,13 +124,20 @@ Treehunter
 Wormhunter
 Seedhunter
 Featherchin
+Bush-Robin
 Featherkin
+Babax
 Featherino
+Junco
 Spadebill
 Dorkbill
 Fruit-Dove
 Bulbul
+Robin
+Robin-Finch
+Robin-Flaplet
 Francolin
 Leaftosser
 Bullfinch
 Berrypecker
+Leafflapper
