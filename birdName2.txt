@@ -30,12 +30,15 @@ Rail-Quail
 Quail-Rail
 Rail
 Antbird
+Bird
 Eagle
 Duck
 Myna-Duck
+Antpitta
 Roseflapper
 Pigeon
 Cupwing
+Spiderhunter
 Laughingthrush
 Ducky
 Duck-Thrush
