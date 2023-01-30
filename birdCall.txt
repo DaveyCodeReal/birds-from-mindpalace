@@ -8,8 +8,12 @@ a rising series of whistling "wuew, wuwuew, wuew".
 the sound of silence.
 a hiccupy chortle.
 loud, wavering whistles.
+a bass-heavy quack.
+a low, resonant call like “rohh”.
+a disyllabic “roh-ow.”
 a witty rejoinder.
 "chur" and "chip" notes. 
+the Windows shutdown sound.
 a distinctive two-part staccato knocking call, "crock-crock," often repeated.
 a sexy cackle.
 a soft, haunting, "AWOOOGA"
@@ -27,6 +31,7 @@ a high-pitched "tzee-tzee".
 an ominous drone.
 a light titter.
 a deep and resonant “ouh-woOO WOO".
+a sickly little cough.
 typically given in flight, and sounds like a series of swears.
 a soft gurgling trill 
 a loud whistle that rises and falls
@@ -53,7 +58,8 @@ a “p’p’p’p’POW!”, building with a first set of rapid, softer notes f
 a sharp, loud “chikeek!”.
 a quavering trill of “trrrri-trrri-trrri-trrri”
 sharp meowing calls that often are repeated
-a punishing drill beat
+a punishing drill beat.
+a very normal hoot.
 a melodic, flutelike songcooing call likened to laughter.
 a hard “tchuk” and also a cicada-like “zee-zee-zee.” 
 horrifying high-pitched screeching 
@@ -97,6 +103,8 @@ a low grumble.
 a quiet, rising, two-part whistle
 an accelerating sequence of short repeated squawks.
 an accelerating sequence of short repeated squeaks.
+a big gross burp.
+a Nokia ringtone.
 an accelerating sequence of high-pitched clicks.
 an accelerating sequence of short repeated squawks and squeaks.
 a series of long, slightly out of tune, quavering whistles. 
@@ -119,6 +127,8 @@ a repeated phrase of flutey notes.
 a haunting mournful whistle.
 a pleasant, descending “jweeee”
 a loud descending screech.
+a loud screech.
+terrified screaming.  
 a ringing nasal note.
 a harsh rasping note.
 a drawn-out wail.
@@ -127,3 +137,4 @@ a hooting song that carries well on still nights.
 double-hooting call of this species, which can sound like an owl, and is mainly uttered around dawn
 a high, bisyllabic squeak like “peeweet?”
 a high, accelerating series of whistles.
+
