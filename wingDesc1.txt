@@ -11,6 +11,9 @@ Sparkly
 Small and slim
 Unfortunate
 Flamboyant 
+Mildly Interesting
+Fairly Average
+Slightly Pixelated
 Sassy
 Stunning
 Teeny
@@ -32,6 +35,8 @@ Smaller than average
 Pathetic 
 Gorgeous 
 Lopsided 
+Asymetrical
+Almost symetrical
 Lucky
 Lavish 
 Intimidating
@@ -54,6 +59,29 @@ Austentatous
 Spiky
 Emo
 Scene
+long broad
+Giant
+Small, distinctive
+Rather chunky
+Thick and soft 
+Bulky and sluggish
+Fairly short
+Minuscule
+Frankly enormous
+Huge
+Real good-sized
+Robust
+Slow
+Reliable 
+Smaller than average 
+Sad
+Normal 
+Silky soft 
+Bulky
+Silky small 
+Silky smooth 
+Quilted and absorbent 
+Medium-sized
 Exquisite 
 Lumpy
 Extended 
