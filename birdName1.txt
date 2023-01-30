@@ -60,8 +60,6 @@ Crested
 Microsoft Certified 
 CompTIA Certified 
 Cisco Certified 
-Fedora
-Red Hat
 Drop_Tables
 Vervain  
 Magellanic 
@@ -127,20 +125,12 @@ Plain
 Northern 
 Bouncy
 Puffy
-Many-colored
 Common
 Gilded
 Ruffled
 Pompous 
-Ribbon-tailed
-Long-tailed
-Zephyr-tailed
-Short-tailed
 Dramatic 
 Clarion
-Floofy-breasted
-Bare-eyed
-Fancy-tailed
 Radtown
 Goblin Camp
 Curly-tailed
@@ -153,23 +143,15 @@ Legendary
 Cloud
 Virtual
 Super
-OG
 Legit
 Conspicuous
 Auspicious
-Lovey-Dovey
-Dolly 
 Radical
 Cool
 Special
-Unattended
 Remodeled
-Globally Faded, Locally Hated
 Socially Famous, Locally Hated
-Condemmed
 Depreciated
-Underrated
-Overrated
 Flighty
 Refurbished
 Factory Reset
@@ -207,7 +189,6 @@ Hopping
 Vegan
 Silicon-based
 Sleepy 
-Crinkle-tailed
 Daring
 Bold
 Starter
