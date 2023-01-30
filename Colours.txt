@@ -1,19 +1,11 @@
 robin's egg blue 
 Van's black and white checkerboard
 Solo "Jazz" pattern
+davy's grey
 olive green
 rose pearl
 pink and gold
-silver
-daffodil yellow
-sky blue
-black
-burnished brown 	
-cerulean frost
-dusty pink
-wild wasabi green
-cosmic cobalt 	
-rusty red 	
+white with glitzy gold glitter
 red
 atomic tangerine
 gold
@@ -22,6 +14,18 @@ aqua pearl
 lavender pearl
 coconut white
 cerise
+xanadu grey-green
+silver
+daffodil yellow
+sky blue
+deepest black
+burnished brown 	
+cerulean frost
+dusty pink
+wild wasabi green
+cosmic cobalt 	
+rusty red 	
+white with confetti glitter
 razzmatazz
 aqua
 bright pink
@@ -53,22 +57,31 @@ concrete-grey
 yellow-green
 off-white
 light chrome green 
+rose taupe
 medium chrome green
+barn red
 glossy grape 	
 salmon pearl
-granite gray
+granite grey
+blue with glitzy gold glitter
+chartreuse yellow
+blue green with glitzy gold glitter 	 
 mystic maroon
+cinnabar
 pearly purple 	
 pewter blue 	
 dark chrome green
 picton blue
 fluffy meadow green
+rosy brown
 pacific blue
 blue-green
+gainsboro grey			
 blue-violet
 silver pink
 sawdust peach
 red-violet
+glaucous grey
 rainbow
 2016 tumblr galaxy print
 cobalt blue
@@ -84,6 +97,8 @@ mahogany brown
 light cream
 dark brown
 pastel lavender 
+carnation pink with lavender glitter 
+green with twinkling turquoise glitter  
 baby powder white	
 dandelion yellow 
 bubblegum pink
@@ -107,7 +122,7 @@ deep space sparkle
 metallic sunburst
 sonic silver
 iron indigo
-pearl-gray
+pearl-grey
 celestial blue
 light pink
 cornflower
@@ -125,15 +140,20 @@ pink
 smooth platinum 
 pale blue 
 smooth gold
+bone white
 rusty orange 
 coral pink
+fluorescent red
+antique white
 rose gold
 lavender silk
 brink pink
+xanthic yellow
 shocking pink
 wild watermelon
 sunglow
 glitter tangerine
+lemon chiffon yellow
 vermillion
 dull copper
 bright red
@@ -144,33 +164,30 @@ electric-blue
 sooty-brown
 green-and-black
 tawny
-gray-brown
+grey-brown
 sandy-colored
 washed-out blue
-black with glitzy gold glitter  	 
-blue with glitzy gold glitter
-blue green with glitzy gold glitter 	 
-carnation pink with lavender glitter 
-green with twinkling turquoise glitter  	 
-maroon with glitzy gold glitter
-orange with twinkling turquoise glitter  	 
-orchid With twinkling turquoise glitter 
+black with glitzy gold glitter  	 	 
 red With shimmering silver glitter
 ultramarine blue 
 forest green
 jordy blue
 red violet with glitzy gold glitter
-royal purple with ruby red glitter  	 
+dark grey 			
+greenish yellow
+royal purple with ruby red glitter
+dutch white
+light slate grey 		
 sky blue with glitzy gold glitter
+cyber yellow
 shamrock green
 sapphire blue 
-white with confetti glitter  	
-white with glitzy gold glitter
 yellow with rainbow glitter  	 
 yellow green With silver glitter 
 fiery reddish
-grayish-olive
-celestial blue 
+greyish-olive
+celestial blue
+dim grey 			
 banana yellow
 maximum blue purple 
 cinnamon-colored
@@ -185,7 +202,7 @@ pale azure
 straw yellow
 shocking pink
 unmellow yellow
-gray and brown
+grey and brown
 purple boldly patterned
 cool mint
 hot magenta 
@@ -200,18 +217,30 @@ cotton candy pink
 turquoise
 misty red
 pearl laser lemon
-cream-colored 
+ivory white
+maroon with glitzy gold glitter
+salt and pepper
+mintcream
+orchid With twinkling turquoise glitter 
 chocolate brown
 uranian blue
-vivid tangerine 
+paprika red
+parchment
+vivid tangerine
+slate grey 		
+dark slate grey 
+powdery white
 mystic pearl
 cheeky pink
+chalk white
 platinum blonde
 bittersweet shimmer
 scarlet
 deep maroon
+ghost white
 vermilion 
 orchid pearl 
+orange with twinkling turquoise glitter
 vermilion pearl
 
 
