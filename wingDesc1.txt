@@ -1,3 +1,135 @@
+Rough and ragged
+Itchy
+Slightly jittery
+Lively little
+Quite long
+Magnificent
+Mysterious
+Nervous
+Very nice
+Pretty odd
+Outrageous
+Outstanding
+Panicky
+Laser-shooting
+perfect
+pleasant
+Poised
+Terrifyingly powerful
+Very powerful
+Tiny precious
+Precious little
+Prickly
+Bristling 	
+Proud
+Mildly scary
+Shiny
+Quite shiny
+Very shiny
+Upsettingly shiny
+Rather silly
+Sleepy little
+Sparkling
+Splendid
+Sticky for some reason
+Spotless
+Strange
+Tasty-looking
+Tense
+Terrible
+Quite tough
+Built Ford tough
+Just about the ugliest
+Frankly ugly
+Rather uninteresting
+Unsightly
+Unusual
+Lean
+Vivacious
+Weary
+Maple-scented
+Wild
+Just super
+Curious
+Pretty cute honestly
+A little scary
+Cute
+Dangerous
+Delightful
+Gleaming
+Glorious
+Disgusting
+Distinct
+Tired
+Disturbing
+Elegant
+Excited
+Exuberant
+Fancy
+Mid
+Fantastic
+Valuable
+Flappy little
+Fierce
+Spooky
+Filthy
+Grimey
+Slimy
+Fragile
+Very tired little
+Frail
+Gentle
+Glamorous
+Distracting
+Gorgeous
+Pretty good
+Frantic
+Very flappy
+Extra flappy
+Quite flappy little
+Graceful
+Grotesque
+Big weird
+Big silly
+Very loud
+Handsome
+Very sharp
+Happy little
+Healthy-looking
+Homely
+Horrible
+Adorable
+Plain
+Aggressive
+Alert
+Amusing
+Intimidating
+Attractive
+Average
+Kinda bad
+Beautiful
+New and improved
+Bewildering
+Bloody
+Unbreakable
+Bright
+Very bright
+Day-bright
+Busy little
+Calm
+Charming
+Clean
+Very Clean
+Sparkling clean
+Clean enough
+Neato	
+Crummy
+Enchanting
+Energetic
+Enthusiastic
+Clumsy
+Creepy	
+Dull
 Extra large  
 Iridescent 
 Extremely soft
@@ -39,11 +171,10 @@ A whole bunch
 Lots of
 Three
 Four
-Asymetrical
-Almost symetrical
+Asymmetrical
+Almost symmetrical
 Lucky
 Lavish 
-Intimidating
 Matte
 Average 
 Mildly poisonous 
@@ -52,41 +183,10 @@ Bluetooth capable
 Sparkling 
 Cuddly
 Glow in the dark 
-pixelated
+Pixelated
 Poisonous 
 Hella rad
 Puffy
 Huge terrifying 
-A great many large
-Velvety 
-Austentatous 
-Spiky
-Emo
-Scene
-long broad
-Giant
-Small, distinctive
-Rather chunky
-Thick and soft 
-Bulky and sluggish
-Fairly short
-Minuscule
-Frankly enormous
-Huge
-Real good-sized
-Robust
-Slow
-Reliable 
-Smaller than average 
-Sad
-Normal 
-Silky soft 
-Bulky
-Silky small 
-Silky smooth 
-Quilted and absorbent 
-Medium-sized
-Exquisite 
-Lumpy
-Extended 
+Just adorable
 Secure
