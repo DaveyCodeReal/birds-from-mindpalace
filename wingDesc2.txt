@@ -2,15 +2,30 @@ robin's egg blue
 Van's black and white checkerboard
 Solo "Jazz" pattern
 olive green
+rose pearl
 pink and gold
 silver
+daffodil yellow
+sky blue
 black
+burnished brown 	
+cerulean frost
+wild wasabi green
+cosmic cobalt 	
+rusty red 	
 red
 atomic tangerine
 gold
+cherry red
+aqua pearl 	
+lavender pearl
+coconut white
 cerise
 razzmatazz
 aqua
+lemon yellow
+licorice black
+lilac wisteria
 orange
 outrageous orange 
 satin cinnamon 
@@ -36,6 +51,12 @@ yellow-green
 off-white
 light chrome green 
 medium chrome green
+glossy grape 	
+salmon pearl
+granite gray
+mystic maroon
+pearly purple 	
+pewter blue 	
 dark chrome green
 ultramarine blue 
 forest green
@@ -44,6 +65,7 @@ fluffy meadow green
 pacific blue
 blue-green
 blue-violet
+sawdust peach
 red-violet
 rainbow
 2016 tumblr galaxy print
@@ -60,22 +82,29 @@ mahogany brown
 light cream
 dark brown
 pastel lavender 
+baby powder white	
+dandelion yellow 
+bubblegum pink
 grey pinstripe 
 vanta black 
 warm amber
 neon green 
+red pearl
 steely grey
 woodgrain pattern 
 purple striped
 yellow spotted 
 piss yellow
 plum
+sunny pearl
 carbon black
 bright pink
 pearl-gray
 light pink
 cornflower
 light cerulean blue
+sunset pearl 
+turquoise pearl
 dark cerulean blue
 dull tarnished gold
 glowing itanium
@@ -100,6 +129,22 @@ tawny
 gray-brown
 sandy-colored
 washed-out blue
+black with glitzy gold glitter  	 
+blue with glitzy gold glitter
+blue green with glitzy gold glitter 	 
+carnation pink with lavender glitter 
+green with twinkling turquoise glitter  	 
+maroon with glitzy gold glitter
+orange with twinkling turquoise glitter  	 
+orchid With twinkling turquoise glitter 
+red With shimmering silver glitter  	 
+red violet with glitzy gold glitter
+royal purple with ruby red glitter  	 
+sky blue with glitzy gold glitter
+white with confetti glitter  	
+white with glitzy gold glitter
+yellow with rainbow glitter  	 
+yellow green With silver glitter 
 fiery reddish
 grayish-olive
 celestial blue 
@@ -121,14 +166,20 @@ cool mint
 hot magenta 
 fuzzy coffee-brown
 mossy-green
+pearl white
+midnight pearl 	
 dark venetian Red 
 fluffy yellowish 
 turquoise
 cream-colored 
 chocolate brown
 vivid tangerine 
+mystic pearl
 cheeky pink
 platinum blonde
 scarlet
 deep maroon
 vermilion 
+orchid pearl 
+vermilion pearl
+
