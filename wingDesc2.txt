@@ -10,6 +10,7 @@ sky blue
 black
 burnished brown 	
 cerulean frost
+dusty pink
 wild wasabi green
 cosmic cobalt 	
 rusty red 	
@@ -23,6 +24,7 @@ coconut white
 cerise
 razzmatazz
 aqua
+bright pink
 lemon yellow
 licorice black
 lilac wisteria
@@ -35,6 +37,7 @@ bright shiny silver
 steel blue
 blue
 red-orange
+windows vista blue
 yellow-orange
 RGB rainbow
 brass
@@ -58,13 +61,12 @@ mystic maroon
 pearly purple 	
 pewter blue 	
 dark chrome green
-ultramarine blue 
-forest green
-shamrock green
+picton blue
 fluffy meadow green
 pacific blue
 blue-green
 blue-violet
+silver pink
 sawdust peach
 red-violet
 rainbow
@@ -99,10 +101,18 @@ plum
 sunny pearl
 carbon black
 bright pink
+alloy orange 	
+berry parfait blue
+deep space sparkle
+metallic sunburst
+sonic silver
+iron indigo
 pearl-gray
+celestial blue
 light pink
 cornflower
 light cerulean blue
+champagne pink
 sunset pearl 
 turquoise pearl
 dark cerulean blue
@@ -116,6 +126,14 @@ smooth platinum
 pale blue 
 smooth gold
 rusty orange 
+coral pink
+rose gold
+lavender silk
+brink pink
+shocking pink
+wild watermelon
+sunglow
+glitter tangerine
 vermillion
 dull copper
 bright red
@@ -137,10 +155,15 @@ green with twinkling turquoise glitter
 maroon with glitzy gold glitter
 orange with twinkling turquoise glitter  	 
 orchid With twinkling turquoise glitter 
-red With shimmering silver glitter  	 
+red With shimmering silver glitter
+ultramarine blue 
+forest green
+jordy blue
 red violet with glitzy gold glitter
 royal purple with ruby red glitter  	 
 sky blue with glitzy gold glitter
+shamrock green
+sapphire blue 
 white with confetti glitter  	
 white with glitzy gold glitter
 yellow with rainbow glitter  	 
@@ -153,10 +176,12 @@ maximum blue purple
 cinnamon-colored
 brilliant rose
 majestic purple
+baby blue
 mouse-colored
 burnt orange 
 goldenrod 
 muted gold
+pale azure
 straw yellow
 shocking pink
 unmellow yellow
@@ -168,18 +193,30 @@ fuzzy coffee-brown
 mossy-green
 pearl white
 midnight pearl 	
-dark venetian Red 
+dark venetian red 
 fluffy yellowish 
+rose ebony
+cotton candy pink
 turquoise
+misty red
+pearl laser lemon
 cream-colored 
 chocolate brown
+uranian blue
 vivid tangerine 
 mystic pearl
 cheeky pink
 platinum blonde
+bittersweet shimmer
 scarlet
 deep maroon
 vermilion 
 orchid pearl 
 vermilion pearl
 
+
+
+
+
+
+  
