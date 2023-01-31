@@ -5,9 +5,9 @@ import random
 birdName1  = ['Stiles\'s',
 'Harcourt\'s',
 'Garcia\'s',
-'Julles\',
+'Julles\'',
 'Shum\'s',
-'Pham\'s
+'Pham\'s,
 'Freeman\'s',
 'Nguyen\'s',
 'Member\'s Only',
