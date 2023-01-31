@@ -48,7 +48,6 @@ Estrelid
 Gamestop Exclusive 
 Special 
 Unfortunate
-Unimportant 
 Snappy
 Unimproved 
 Unpleasant 
@@ -99,7 +98,6 @@ Floppy
 Datacenter Edition
 Nervous  
 Plain
-Northern 
 Bouncy
 Puffy
 Common
@@ -127,7 +125,6 @@ Radical
 Cool
 Special
 Remodeled
-Socially Famous, Locally Hated
 Depreciated
 Flighty
 Refurbished
@@ -166,6 +163,7 @@ Silicon-based
 Sleepy 
 Daring
 Bold
+Updated
 Starter
 Stunning
 Elegant 
