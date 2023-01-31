@@ -1,58 +1,38 @@
-Stiles's
-Harcourt's
-Garcia's
-Julles'
-Shum's
-Pham's
-Freeman's
-Nguyen's
-Chen's
-Peony's
-William's
-Bradley's 
-Lupe's
-Member's Only
-Bridget's 
-Lee's
-Zeek's
-Dorian's
-Barton's
-Butler's 
-Penny's
-Violet's
-Governer's
-The Queen's Own
-Newman's Own
-Stephan Speilberg's
-Tony Hawk's
-Lubbock's
-Cummin's
+Stiles\'s
+Harcourt\'s
+Garcia\'s
+Julles\'
+Shum\'s
+Pham\'s
+Freeman\'s
+Nguyen\'s
+Member\'s Only
+Bridget\'s 
+Lee\'s
+Zeek\'s
+Dorian\'s
+Butler\'s 
+Violet\'s
+Governer\'s
+The Queen\'s Own
+Newman\'s Own
+Stephan Speilberg\'s
+Tony Hawk\'s
 Jerry's
-Calliope's
-Akinwabe's
-Wallford's
-Shinji's
-Sergio's
-Mavis Beacon's
+Calliope\'s
+Mavis Beacon\'s
 Stephanie Meyer's
-Monads'
-eGirls'
-The Pragmatist's
-eBoys'
-Davey's
-Website Boy's
-Eugen's
-Latham's 
-Sclater's
-Morales'
-Weddle's
-Jackson's
-Brown's
-Richard's 
-Carter's 
-Sid Meyer's 
-Angie's 
-Everett’s
+Monads\'
+eGirls\'
+The Pragmatist\'s
+Davey\'s
+Website Boy\'s
+Eugen\'s
+Morales\'
+Carter\'s 
+Manager\'s Special 
+God\'s Own Favorite 
+The King\'s Own
 Crested
 Microsoft Certified 
 CompTIA Certified 
@@ -67,9 +47,6 @@ Mindanao
 Estrelid
 Gamestop Exclusive 
 Special 
-Manager's Special 
-God's Own Favorite 
-The King's Own
 Unfortunate
 Unimportant 
 Snappy
@@ -180,10 +157,8 @@ Normal
 Fast
 Speedy
 Carnivorous
-Biblically accurate 
+Biblically Accurate 
 Dorky
-Terrified
-Deadly Accurate
 Sulking 
 Hopping
 Vegan
