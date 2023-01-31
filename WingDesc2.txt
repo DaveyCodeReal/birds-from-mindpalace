@@ -1,7 +1,6 @@
-robin's egg blue 
-Van's black and white checkerboard
-Solo "Jazz" pattern
-davy's grey
+robin\'s egg blue 
+Van\'s black and white checkerboard
+davy\'s grey
 olive green
 rose pearl
 pink and gold
