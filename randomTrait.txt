@@ -95,6 +95,13 @@ Flight is generally quick and weaving, with rather jerky wingbeats and little to
 Runs on the ground, searching for small arthropods.
 Often in pairs or small groups.
 Walks on the ground, searching for small arthropods and plant material.
-
+Often extremely tame, allowing close approach.',
+Shy and retiring.
+Tends to stay high.
+Stays low where it is hard to see.
+Usually seen in trios or family groups (males take care of the young).
+Fairly common where not hunted, but mostly wary of people. 
+Very heavy bones, very rarely flies.
+Perches conspicuously on low perches and forages by hopping across the ground.
 
 
