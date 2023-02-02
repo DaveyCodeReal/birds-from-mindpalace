@@ -1,313 +1,196 @@
-Harcourt\'s
-Garcia\'s
-Julles\'
-Shum\'s
-PlayerUnknown\'s
-Bram Stoker\'s 
-Sid Meier\'s 
-Super Mario\'s
-Rocko\'s Modern
-Howl\'s Moving
-Pham\'s
-Freeman\'s
-Nguyen\'s
-Member\'s Only
-Bridget\'s 
-Lee\'s
-Zeek\'s
-Dorian\'s
-Butler\'s 
-Violet\'s
-Governer\'s
-The Queen\'s Own
-Newman\'s Own
-Stephan Speilberg\'s
-Tony Hawk\'s
-Jerry's
-Calliope\'s
-Mavis Beacon\'s
-Stephanie Meyer's
-Monads\'
-eGirls\'
-The Pragmatist\'s
-Davey\'s
-Website Boy\'s
-Eugen\'s
-Morales\'
-Carter\'s 
-Manager\'s Special 
-God\'s Own Favorite 
-The King\'s Own
-Crested
-Microsoft Certified 
-CompTIA Certified 
-Cisco Certified 
-Drop_Tables
-Vervain  
-Magellanic 
-Horned
-Wise
-Waigeo
-Mindanao
-Estrelid
-Gamestop Exclusive 
-Special 
-Unfortunate
-Snappy
-Unimproved 
-Unpleasant 
-Unpredictable 
-Unparalleled 
-Unpatriotic 
-Goof
-Unpatched
-WiFi
-Unmatched 
-Unmanageable 
-Unmistakable 
-Mega
-Giga
-Zeta
-Peta
-Vigorous 
-Lesser
-Reliable
-Radioactive
-Lenovo 
-Dell
-Compaq
-Asus
-Apple
-Alienware
-Logitech 
-Atari
-Sony
-Sonic
-Satin
-Freewheeling
-Liberated
-Neurospicy
-Egotistical
-Locally Hosted
-Depreciated
-Odd
-New for 2024
-2018 Edition
-Home Edition
-Premium
-Enterprise
-Haunted by Visions
-Bendy
-Scary
-Floppy
-Datacenter Edition
-Nervous  
-Plain
-Bouncy
-Puffy
-Common
-Gilded
-Ruffled
-Pompous 
-Dramatic 
-Clarion
-Radtown
-Goblin Camp,
-Fire Type, 
-Water Type, 
-Grass Type, 
-Flying Type, 
-Fighting Type,
-Poison Type, 
-Electric Type,
-Ground Type,
-Rock Type, 
-Psychic Type, 
-Ice Type, 
-Bug Type, 
-Ghost Type,
-Steel Type, 
-Dragon Type, 
-Dark Type, 
-Fairy Type,              
-Light,
-Le Epic',
-Ancient', 
-Modern',
-Rare',
-Legendary',
-Cloud',
-Virtual',
-Super',
-Legit',
-Conspicuous',
-Auspicious',
-Radical',
-Cool',
-Special',
-Remodeled',
-Depreciated',
-Flighty',
-Refurbished',
-Factory Reset',
-Domain Joined',
-Cordial',
-Fully Goated',
-Goated',
-Completely Goated',
-Kinda Sus',
-A little Sus',
-Mild',
-Flamin Hot',
-Cool Ranch',
-Siracha',
-Magic',
-Low-down',
-Skill Issue',
-Very Nice',
-Sweet Little',
-Angry',
-Screaming',
-Hoppin',
-Sloshed',
-Uncompromising',
-Normal Type',
-Fast',
-Speedy',
-Carnivorous',
-Biblically Accurate', 
-Dorky',
-Sulking',
-Hopping',
-Vegan',
-Silicon-based',
-Sleepy',
+'Stiles\'s',
+'Harcourt\'s',
+'Garcia\'s',
+'Julles\'',
+'Shum\'s',
+'PlayerUnknown\'s',
+'Bram Stoker\'s', 
+'Sid Meier\'s',
+'Super Mario\'s',
+'Rocko\'s Modern',
+'Howl\'s Moving',              
+'Freeman\'s',
+'Nguyen\'s',
+'Member\'s Only',
+'Bridget\'s', 
+'Lee\'s',
+'Zeek\'s',
+'Dorian\'s',
+'Butler\'s',
+'Violet\'s',
+'Governer\'s',
+'The Queen\'s Own',
+'Newman\'s Own',
+'Stephan Speilberg\'s',
+'Tony Hawk\'s',
+'Jerry\'s',
+'Calliope\'s',
+'Mavis Beacon\'s',
+'Stephanie Meyer\'s',
+'Monads\'',
+'eGirls\'',
+'The Pragmatist\'s',
+'Davey\'s',
+'Website Boy\'s',
+'Eugen\'s',
+'Morales\'',
+'Carter\'s',
+'Manager\'s Special',
+'God\'s Own Favorite',
+'The King\'s Own',
+'Crested',
+'Microsoft Certified', 
+'CompTIA Certified',
+'Cisco Certified', 
+'Drop_Tables',
+'Vervain',  
+'Horned',
+'Wise',
+'Walmart Exclusive',
+'Estrelid',
+'Gamestop Exclusive',
+'Special',
+'Unfortunate',
+'Snappy',
+'Unimproved', 
+'Unpleasant', 
+'Unpredictable', 
+'Unparalleled', 
+'Unpatriotic',
+'Trial Version',              
+'Goof',
+'Unpatched',
+'WiFi',
+'Version 2.0',
+'Version 1.0',
+'Version 0.5',
+'Release Candidate',              
+'Unmatched',
+'Unmanageable', 
+'Unmistakable',
+'Mega',
+'Giga',
+'Zeta',
+'Peta',
+'Vigorous',
+'Lesser',
+'Reliable',
+'Radioactive',
+'Lenovo',
+'Dell',
+'Compaq',
+'Asus',
+'Apple',
+'Alienware',
+'Logitech',
+'Atari',
+'Sony',
+'Sonic',
+'Satin',
+'Freewheeling',
+'Liberated',
+'Neurospicy',
+'Egotistical',
+'Locally Hosted',
+'Depreciated',
+'Odd',
+'New for 2024',
+'2018 Edition',
+'Home Edition',
+'Premium',
+'Enterprise',
+'Haunted by Visions',
+'Bendy',
+'Scary',
+'Floppy',
+'Datacenter Edition',
+'Nervous',  
+'Plain',
+'Bouncy',
+'Puffy',
+'Common',
+'Gilded',
+'Ruffled',
+'Pompous', 
+'Dramatic',
+'Clarion',
+'Radtown',
+'Goblin Camp',
+'Fire Type', 
+'Water Type', 
+'Grass Type', 
+'Flying Type', 
+'Fighting Type',
+'Poison Type', 
+'Electric Type',
+'Ground Type',
+'Rock Type', 
+'Psychic Type', 
+'Ice Type', 
+'Bug Type', 
+'Ghost Type',
+'Steel Type', 
+'Dragon Type', 
+'Dark Type', 
+'Fairy Type',              
+'Light',
+'Le Epic',
+'Ancient', 
+'Modern',
+'Rare',
+'Legendary',
+'Cloud',
+'Virtual',
+'Demi',
+'Hella',              
+'Super',
+'Legit',
+'Conspicuous',
+'Auspicious',
+'Radical',
+'Cool',
+'Special',
+'Remodeled',
+'Depreciated',
+'Flighty',
+'Refurbished',
+'Factory Reset',
+'Domain Joined',
+'Cordial',
+'Fully Goated',
+'Goated',
+'Completely Goated',
+'Kinda Sus',
+'A little Sus',
+'Mild',
+'Flamin Hot',
+'Cool Ranch',
+'Siracha',
+'Magic',
+'Low-down',
+'Skill Issue',
+'Very Nice',
+'Sweet Little',
+'Angry',
+'Screaming',
+'Hoppin',
+'Sloshed',
+'Uncompromising',
+'Normal Type',
+'Fast',
+'Speedy',
+'Carnivorous',
+'Biblically Accurate', 
+'Dorky',
+'Sulking',
+'Hopping',
+'Vegan',
+'Silicon-based',
+'Sleepy',
+'Gentoo',
 'Daring',
 'Bold',
 'Updated',
 'Starter',
 'Stunning',
 'Elegant'
-Estrelid
-Gamestop Exclusive 
-Special 
-Unfortunate
-Snappy
-Unimproved 
-Unpleasant 
-Unpredictable 
-Unparalleled 
-Unpatriotic 
-Goof
-Unpatched
-WiFi
-Unmatched 
-Unmanageable 
-Unmistakable 
-Mega
-Giga
-Zeta
-Peta
-Vigorous 
-Lesser
-Reliable
-Radioactive
-Lenovo 
-Dell
-Compaq
-Asus
-Apple
-Alienware
-Logitech 
-Atari
-Sony
-Sonic
-Satin
-Freewheeling
-Liberated
-Neurospicy
-Egotistical
-Locally Hosted
-Depreciated
-Odd
-New for 2024
-2018 Edition
-Home Edition
-Premium
-Enterprise
-Haunted by Visions
-Bendy
-Scary
-Floppy
-Datacenter Edition
-Nervous  
-Plain
-Bouncy
-Puffy
-Common
-Gilded
-Ruffled
-Pompous 
-Dramatic 
-Clarion
-Radtown
-Goblin Camp
-Curly-tailed
-Light
-Le Epic
-Ancient 
-Modern
-Rare
-Legendary 
-Cloud
-Virtual
-Super
-Legit
-Conspicuous
-Auspicious
-Radical
-Cool
-Special
-Remodeled
-Depreciated
-Flighty
-Refurbished
-Factory Reset
-Domain Joined
-Cordial
-Fully Goated
-Goated
-Completely Goated
-Kinda Sus
-A little Sus
-Mild
-Flamin Hot
-Cool Ranch
-Siracha
-English
-Low-skilled
-Skill Issue
-Very Nice
-Sweet Little
-Angry
-Screaming
-Hoppin
-Sloshed
-Uncompromising
-Normal
-Fast
-Speedy
-Carnivorous
-Biblically Accurate 
-Dorky
-Sulking 
-Hopping
-Vegan
-Silicon-based
-Sleepy 
-Daring
-Bold
-Updated
-Starter
-Stunning
-Elegant 
