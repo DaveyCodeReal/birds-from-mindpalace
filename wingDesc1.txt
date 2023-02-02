@@ -1,192 +1,194 @@
-Rough and ragged
-Itchy
-Slightly jittery
-Lively little
-Quite long
-Magnificent
-Mysterious
-Nervous
-Very nice
-Pretty odd
-Outrageous
-Outstanding
-Panicky
-Laser-shooting
-perfect
-pleasant
-Poised
-Terrifyingly powerful
-Very powerful
-Tiny precious
-Precious little
-Prickly
-Bristling 	
-Proud
-Mildly scary
-Shiny
-Quite shiny
-Very shiny
-Upsettingly shiny
-Rather silly
-Sleepy little
-Sparkling
-Splendid
-Sticky for some reason
-Spotless
-Strange
-Tasty-looking
-Tense
-Terrible
-Quite tough
-Built Ford tough
-Just about the ugliest
-Frankly ugly
-Rather uninteresting
-Unsightly
-Unusual
-Lean
-Vivacious
-Weary
-Maple-scented
-Wild
-Just super
-Curious
-Pretty cute honestly
-A little scary
-Cute
-Dangerous
-Delightful
-Gleaming
-Glorious
-Disgusting
-Distinct
-Tired
-Disturbing
-Elegant
-Excited
-Exuberant
-Fancy
-Mid
-Fantastic
-Valuable
-Flappy little
-Fierce
-Spooky
-Filthy
-Grimey
-Slimy
-Fragile
-Very tired little
-Frail
-Gentle
-Glamorous
-Distracting
-Gorgeous
-Pretty good
-Frantic
-Very flappy
-Extra flappy
-Quite flappy little
-Graceful
-Grotesque
-Big weird
-Big silly
-Very loud
-Handsome
-Very sharp
-Happy little
-Healthy-looking
-Homely
-Horrible
-Adorable
-Plain
-Aggressive
-Alert
-Amusing
-Intimidating
-Attractive
-Average
-Kinda bad
-Beautiful
-New and improved
-Bewildering
-Bloody
-Unbreakable
-Bright
-Very bright
-Day-bright
-Busy little
-Calm
-Charming
-Clean
-Very Clean
-Sparkling clean
-Clean enough
-Neato	
-Crummy
-Enchanting
-Energetic
-Enthusiastic
-Clumsy
-Creepy	
-Dull
-Extra large  
-Iridescent 
-Extremely soft
-Extra soft
-Incredibly soft
-Goth
-Real long
-Enormous 
-Impressive 
-Sparkly
-Small and slim
-Unfortunate
-Flamboyant 
-Mildly Interesting
-Fairly Average
-Slightly Pixelated
-Sassy
-Stunning
-Teeny
-Very sexy 
-Highly sensitive 
-Clean 
-Peculiar 
-Entirely 
-Practical
-Twitchy 
-A great many little
-Jittery
-Smelly
-Important 
-Nearly transparent
-Wispy
-Vanilla-scented 
-Smaller than average 
-Pathetic 
-Gorgeous 
-Lopsided 
-A whole bunch
-Lots of
-Three
-Four
-Asymmetrical
-Almost symmetrical
-Lucky
-Lavish 
-Matte
-Average 
-Mildly poisonous 
-WiFi-enabled 
-Bluetooth capable 
-Sparkling 
-Cuddly
-Glow in the dark 
-Pixelated
-Poisonous 
-Hella rad
-Puffy
-Huge terrifying 
-Just adorable
-Secure
+'Rough and ragged',
+'Itchy',
+'Slightly jittery',
+'Lively little',
+'Quite long',
+'Regular',
+'Magnificent',
+'Mysterious',
+'Nervous',
+'Very nice',
+'Pretty odd',
+'Outrageous',
+'Outstanding',
+'Panicky',
+'Laser-shooting',
+'Perfect',
+'Pleasant',
+'Poised',
+'Terrifyingly powerful',
+'Very powerful',
+'Tiny precious',
+'Precious little',
+'Prickly',
+'Bristling', 	
+'Proud',
+'Mildly scary',
+'Shiny',
+'Quite shiny',
+'Very shiny',
+'Upsettingly shiny',
+'Rather silly',
+'Sleepy little',
+'Sparkling',
+'Splendid',
+'Sticky for some reason',
+'Spotless',
+'Strange',
+'Tasty-looking',
+'Tense',
+'Terrible',
+'Quite tough',
+'Built Ford tough',
+'Just about the ugliest',
+'Frankly ugly',
+'Rather uninteresting',
+'Unsightly',
+'Unusual',
+'Lean',
+'Vivacious',
+'Weary',
+'Quite impressive',
+'Wild',
+'Just super',
+'Curious',
+'Pretty cute honestly',
+'A little scary',
+'Cute',
+'Dangerous',
+'Delightful',
+'Gleaming',
+'Glorious',
+'Disgusting',
+'Distinct',
+'Tired',
+'Disturbing',
+'Elegant',
+'Excited',
+'Smaller than average',             
+'Exuberant',
+'Fancy',
+'Mid',
+'Fantastic',
+'Valuable',
+'Flappy little',
+'Fierce',
+'Spooky',
+'Filthy',
+'Grimy',
+'Slimy',
+'Fragile',
+'Very tired little',
+'Frail',
+'Gentle',
+'Glamorous',
+'Distracting',
+'Gorgeous',
+'Pretty good',
+'Frantic',
+'Very flappy',
+'Extra flappy',
+'Quite flappy little',
+'Graceful',
+'Grotesque',
+'Big weird',
+'Big silly',
+'Very loud',
+'Handsome',
+'Very sharp',
+'Happy little',
+'Healthy-looking',
+'Homely',
+'Horrible',
+'Adorable',
+'Plain',
+'Aggressive',
+'Alert',
+'Amusing',
+'Intimidating',
+'Attractive',
+'Average',
+'Kinda bad',
+'Beautiful',
+'New and improved',
+'Bewildering',
+'Bloody',
+'Unbreakable',
+'Bright',
+'Very bright',
+'Day-bright',
+'Busy little',
+'Calm',
+'Charming',
+'Clean',
+'Very clean',
+'Sparkling clean',
+'Clean enough',
+'Neato',	
+'Crummy',
+'Enchanting',
+'Energetic',
+'Sweet',
+'Clumsy',
+'Creepy',	
+'Dull',
+'Extra large',  
+'Iridescent', 
+'Extremely soft',
+'Extra soft',
+'Incredibly soft',
+'Goth',
+'Real long',
+'Enormous', 
+'Impressive', 
+'Sparkly',
+'Small and slim',
+'Unfortunate',
+'Flamboyant', 
+'Mildly Interesting',
+'Fairly Average',
+'Slightly Pixelated',
+'Sassy',
+'Stunning',
+'Teeny',
+'Very sexy', 
+'Highly sensitive', 
+'Clean', 
+'Peculiar',  
+'Practical',
+'Twitchy', 
+'A great many little',
+'Jittery',
+'Smelly',
+'Important', 
+'Nearly transparent',
+'Wispy',
+'Rather delicate', 
+'Smaller than average', 
+'Pathetic', 
+'Gorgeous', 
+'Lopsided', 
+'A whole bunch of',
+'Lots of',
+'Three',
+'Four',
+'Asymmetrical',
+'Almost symmetrical',
+'Lucky',
+'Lavish', 
+'Matte',
+'Average', 
+'Mildly poisonous', 
+'WiFi-enabled', 
+'Bluetooth capable', 
+'Sparkling',
+'Interesting',             
+'Cuddly',
+'Glow in the dark',
+'Pixelated',
+'Poisonous', 
+'Hella rad',
+'Puffy',
+'Huge terrifying', 
+'Just adorable',
+'Secure'
