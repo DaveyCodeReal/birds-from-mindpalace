@@ -173,3 +173,6 @@
 'abandoned malls.',
 'Clarión Island, which is located in the Pacific Ocean about 450 miles southwest of the tip of Baja California in Mexico.',
 'cloud forest in the western Andes.'
+'Blue Team.',
+'Red Team',
+'The Shire'
